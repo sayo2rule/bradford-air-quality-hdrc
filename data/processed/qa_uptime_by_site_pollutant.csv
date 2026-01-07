@@ -1,0 +1,7 @@
+site,pollutant,expected_hours,observed_hours,downtime_hours,uptime_pct
+Bradford Keighley,PM10,1848,1763,85,95.4004329004329
+Bradford Keighley,PM25,1848,1721,127,93.12770562770562
+Bradford Tong Street,PM10,1522,1425,97,93.62680683311433
+Bradford Tong Street,PM25,1522,1268,254,83.311432325887
+Bradford Treadwell Mills,PM10,648,648,0,100.0
+Bradford Treadwell Mills,PM25,648,648,0,100.0
