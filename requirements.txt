@@ -6,3 +6,5 @@ openpyxl
 missingno
 plotly
 kaleido
+dash
+dash_bootstrap_components
